@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Davi</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 💬 Ask me about **react, react native**
+- 💬 Ask me about **React/React Native, Security, Linux **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
