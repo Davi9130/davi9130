@@ -13,5 +13,6 @@
 
 <h3 align="left">Enthusiastic</h3>
 <a href="https://cypherpunks.com.br" target="_blank"> <img src="https://cypherpunks.com.br/_pages/img/cypherInvertTranslucid.png" alt="cypher" width="40" height="40"/> </a>
+<a href="https://www.eff.org" target="_blank"> <img src="https://www.eff.org/sites/all/modules/custom/eff_library/images/eff-logo-1color-blue.svg" alt="cypher" width="40" height="40"/> </a>
 <a href="https://www.offensive-security.com" target="_blank"> <img src="https://www.offensive-security.com/wp-content/themes/OffSec/assets/images/offsec-logo.svg" alt="cypher" width="40" height="40"/> </a>
 
