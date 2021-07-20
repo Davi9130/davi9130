@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 - 💬 Ask me about **React/React Native, Security, Linux**
+- 👨‍💻 I am working as a Mobile Developer!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
