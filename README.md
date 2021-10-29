@@ -1,8 +1,7 @@
+<h1 align="center">Hi 👋, I'm Davi</h1>
 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-
-<h1 align="center">Hi 👋, I'm Davi</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 - 💬 Ask me about **React/React Native, Security, Linux**
