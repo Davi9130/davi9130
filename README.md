@@ -1,6 +1,11 @@
+
+
+
 <h1 align="center">Hi 👋, I'm Davi</h1>
 
 <h3 align="center">A passionate frontend developer from Brazil</h3>
+
+
 
 - 💬 Ask me about **React/React Native, Security, Linux**
 - 👨‍💻 I am working as a Mobile Developer!
@@ -21,6 +26,6 @@
 <a href="https://www.eff.org" target="_blank"> <img src="https://www.eff.org/sites/all/modules/custom/eff_library/images/eff-logo-1color-blue.svg" alt="cypher" width="40" height="40"/> </a>
 <a href="https://www.offensive-security.com" target="_blank"> <img src="https://www.offensive-security.com/wp-content/themes/OffSec/assets/images/offsec-logo.svg" alt="cypher" width="40" height="40"/> </a>
 
-![Alt Text](https://64.media.tumblr.com/b2d0e1c8bce99d5e677bf3f7aaa6ed19/tumblr_nltmi4PG6C1qbwrnuo4_500.gifv)
 
 
+![Alt Text](https://wallpaperaccess.com/full/849790.gif)
