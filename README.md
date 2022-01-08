@@ -1,13 +1,13 @@
 
 
 
-<h1 align="center">Hi, I'm Davi</h1>
+<h1 align="center">Hi, I am Davi Costa</h1>
 
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Front-end developer and Web security pentest</h3>
 
 
 
-- 💬 Ask me about **React/React Native, Security, Linux**
+- 💬 Ask me about **React/React Native, Security, Linux, Security ....**
 - 👨‍💻 I am working as a Mobile Developer!
 
 <h3 align="left">Connect with me:</h3>
