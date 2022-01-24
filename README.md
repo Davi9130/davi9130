@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi, I am Davi Costa</h1>
 
-<h3 align="center">A passionate Front-end developer and Web security pentest</h3>
+<h3 align="center">A passionate Front-end developer and Web security pentester</h3>
 
 
 
