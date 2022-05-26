@@ -1,5 +1,5 @@
-<img src="https://user-images.githubusercontent.com/41929096/166732977-57e11f4c-daed-4a62-b7ac-535dfd5246fd.gif" min-width="400px" max-width="400px" width="400px" align="left" alt="Bushido">
-義
+<img src="https://user-images.githubusercontent.com/41929096/166732977-57e11f4c-daed-4a62-b7ac-535dfd5246fd.gif" min-width="150px" max-width="150px" width="150px" align="left" alt="Bushido">
+
 <p align="right"> 
   Hello, my name is Davi Costa. I am a <strong>Front-end Developer</strong> & <strong>Cyber-security enthusiast</strong>.<br />
   I am studying Back-end and anothers stuffs.
@@ -7,7 +7,8 @@
 
 <p align="right">
   🏆  Skills: <strong>React JS, React Native and Cyber-security.</strong><br />
-  📚  Learning: <strong>Node JS and GraphQL</strong>.
+  📚  Learning: <strong>Node JS and GraphQL</strong>.<br/>
+  義  Frase do dia : A humildade precede a honra,<br/> por isto que aquele que muito se acha não se encontra.
 </p>
 </br>
 </br>
