@@ -8,7 +8,7 @@
 <p align="right">
   🏆  Skills: <strong>React JS, React Native and Cyber-security.</strong><br />
   📚  Learning: <strong>Node JS and GraphQL</strong>.<br/>
-  義  Frase do dia : A humildade precede a honra,<br/> por isto que aquele que muito se acha não se encontra.
+  義 
 </p>
 </br>
 </br>
