@@ -8,7 +8,7 @@
 <p align="right">
   🏆  Skills: <strong>React JS, React Native and Cyber-security.</strong><br />
   📚  Learning: <strong>Node JS and GraphQL</strong>.<br/>
-  義 
+ 武士道
 </p>
 </br>
 </br>
