@@ -22,10 +22,10 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/Davi9130/count.svg"/><p> 
   <p align="right" > <strong>App's that I collaborated:<strong> </p>
   <div  align="right">
-     <a href="https://play.google.com/store/search?q=Capitual&c=apps&hl=pt_BR" alt="Capitual">
+     <a href="https://play.google.com/store/apps/details?id=app.lalo.android&hl=pt_BR" alt="Lalo" >
     <img width="50px" width="50px" src="https://play-lh.googleusercontent.com/GAPuthO08qsABnVxvB7R_pb0IQC3I4Z82kxG3qNmEGVDA3rprFKjbLfXvcQ2jvlQCw=w240-h480-rw" srcset="https://play-lh.googleusercontent.com/GAPuthO08qsABnVxvB7R_pb0IQC3I4Z82kxG3qNmEGVDA3rprFKjbLfXvcQ2jvlQCw=w480-h960-rw 2x" class="T75of cN0oRe fFmL2e" aria-hidden="true" alt="Imagem do ícone" itemprop="image" data-iml="7795.5999999996275" data-atf="false">
      </a>   
-     <a  href="https://play.google.com/store/apps/details?id=app.lalo.android&hl=pt_BR" alt="Lalo">
+     <a  href="https://play.google.com/store/search?q=Capitual&c=apps&hl=pt_BR" alt="Capitual" >
     <img src="https://play-lh.googleusercontent.com/Stua0uWk3TTxnLKxqiHUdguhIw-yMFU7f_WbViURlWtENj8TPnpAM3ZSwZk9i1ifOKNj=s52-rw" srcset="https://play-lh.googleusercontent.com/Stua0uWk3TTxnLKxqiHUdguhIw-yMFU7f_WbViURlWtENj8TPnpAM3ZSwZk9i1ifOKNj=s104-rw 2x" class="T75of KvQfUd" aria-hidden="true" alt="Imagem do ícone" itemprop="image" data-atf="false">
      </a>
    </div>
