@@ -2,7 +2,6 @@
 
 <p align="right"> 
   Hello, my name is Davi Costa. I'm a <strong>Full Stack Engineer</strong> & <strong>Cyber-security enthusiast</strong>.<br />
-  I am studying Back-end and anothers stuffs.<br />
   Lammer in the free time 😂
 </p>
 
