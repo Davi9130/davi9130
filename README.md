@@ -7,7 +7,7 @@
 </p>
 
 <p align="right">
-  🏆  Skills: <strong>React JS, React Native, Node JS, Postegres, Prisma, Cyber-security and Another stuff's.</strong><br />
+  🏆  Skills: <strong>React JS, React Native, Node JS, Postgresql, Prisma, Cyber-security and Another stuff's.</strong><br />
  武士道
 </p>
 </br>
