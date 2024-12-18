@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/41929096/166732977-57e11f4c-daed-4a62-b7ac-535dfd5246fd.gif" width="150px" align="left" alt="Bushido">
+
 <h1 align="right">Davi Costa</h1>
 <p align="right">
   <strong>Full Stack Engineer</strong> & <strong>Cyber-Security Enthusiast</strong><br />
